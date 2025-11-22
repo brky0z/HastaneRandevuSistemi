@@ -61,7 +61,7 @@ Hastanın geçmiş ve gelecek randevularını yönetebildiği, iptal işlemi yap
 
 ### 🔹 Doktor Paneli: Randevu Yönetimi
 Doktorların hastalarını takip ettiği, durumlarını güncellediği profesyonel arayüz.
-![Doktor Paneli](doktor-panel.jpg)
+![Doktor Paneli](doktor-panel.jpeg)
 
 ---
-*Developed with ❤️ and ☕ by [Senin Adın]*
+*Developed with ❤️ and ☕ by Mehmet Berkay Özdemir*
