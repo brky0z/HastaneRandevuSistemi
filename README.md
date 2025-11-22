@@ -11,10 +11,10 @@ Bu proje, hastane süreçlerinin dijitalleşmesi, randevu yönetiminin optimize 
 Projeyi geliştirirken **Solid Prensipleri** ve **N-Tier Architecture** (Çok Katmanlı Mimari) yapısına sadık kalınmıştır.
 
 * **Backend:** C#, ASP.NET Core MVC
-* **Veritabanı:** MSSQL Server (Relational Database Design)
-* **ORM:** Entity Framework Core (Code First Yaklaşımı)
-* **Frontend:** HTML5, CSS3, Bootstrap, JQuery
-* **Authentication:** ASP.NET Core Identity (Rol Bazlı Yetkilendirme)
+* **Veritabanı:** MSSQL Server 
+* **ORM:** Entity Framework Core 
+* **Frontend:** HTML5, CSS3
+* **Authentication:** ASP.NET Core Identity 
 
 ## 💻 Temel Özellikler
 
