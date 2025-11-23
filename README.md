@@ -64,4 +64,4 @@ Doktorların hastalarını takip ettiği, durumlarını güncellediği profesyon
 ![Doktor Paneli](doktor-panel.jpeg)
 
 ---
-*Developed with Mehmet Berkay Özdemir*
+*Developed by Mehmet Berkay Özdemir*
